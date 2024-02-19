@@ -1,1 +1,1 @@
-# obedsayyad.github.io using next.js
+# obedsayyad.github.io
