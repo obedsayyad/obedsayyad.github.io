@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "View the my resume",
+  title: "View Resume",
   description:
     "Modern web developer & designer crafting responsive websites, landing pages, and web apps. I design clean, user-focused interfaces in Figma and convert them into pixel-perfect, scalable code with performance in mind. Let’s bring your vision to life.",
   keywords: [
@@ -30,11 +30,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Obed Sayyad", url: "https://obed1s.vercel.app/" }],
   openGraph: {
-    title: "View the my resume",
+    title: "View Resume",
     description:
       "Modern web developer & designer crafting responsive websites, landing pages, and web apps. I design clean, user-focused interfaces in Figma and convert them into pixel-perfect, scalable code with performance in mind. Let’s bring your vision to life.",
     url: "https://obed1s.vercel.app/",
-    siteName: "View the my resume",
+    siteName: "View Resume",
     images: [
       {
         url: "https://i.imgur.com/PJpbJrr.jpeg",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "View the my resume",
+    title: "View Resume",
     description:
       "Modern web developer & designer crafting responsive websites, landing pages, and web apps. I design clean, user-focused interfaces in Figma and convert them into pixel-perfect, scalable code with performance in mind. Let’s bring your vision to life.",
     images: ["https://i.imgur.com/PJpbJrr.jpeg"],
