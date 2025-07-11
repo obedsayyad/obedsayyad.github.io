@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
-    window.location.href = "https://obed1s.vercel.app/";
+    window.location.href = "https://obed1s.vercel.app/resume";
   }, []);
 
   return <p>Redirecting...</p>;
